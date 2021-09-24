@@ -2,19 +2,19 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  Bonjour  
  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
- I'm Srikar 👨‍💻
+ Je suis Srikar 👨‍💻
  <a href='https://github.com/Vijaysreekar4994'><img align="right" src="https://img.shields.io/badge/ENGLISH-EN-blue" /></a>
 </h1>
 
 
 <p align='center'> 
-   React / React Native Developer. <br />
-   Actively in search of Full-time contract in Frontend development.:dart: <br />
-   Passionate about creating responsive UIs for Web & Mobile apps.
+   Développeur React / React Native. <br />
+   À la recherche d’un contrat CDI en Développement Frontend.:dart: <br />
+   Très passionné par la création de UI responsives pour les applications web et mobile
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/pvsb/">
+   <a href="https://www.linkedin.com/in/pvsb/?locale=fr_FR">
     <img height="20px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 		<a href='mailto:pvsrikar@mail.fr'>
@@ -25,103 +25,101 @@
 
 
 
-## Experience
+## Expérience
 
-- 👨‍💻 **Front-end Engineer**\
+- 👨‍💻 **Ingénieur Front-end**\
 📆 2020 - 2021\
 📍 **Horizon Pharma** - Les ulis, France
 
-- 👨‍💻 **Front-end Developer**\
+- 👨‍💻 **Développeur Front-end**\
 📆 2013 - 2016\
 📍 **HO Solution** - Asnières-sur-Seine, France
 
-- 👨‍💻 **Junior Front-end Developer**\
+- 👨‍💻 **Développeur Front-end junior**\
 📆 2013 - 2016\
-📍 **Tata consultancy services** - Hyderabad, India
+📍 **Tata consultancy services** - Hyderabad, Inde
 
-## Education
+## Formation
 👨🏽‍🎓 **Master of science - Software engineering**\
 📆 2018 - 2020\
-📍 **EPITA - School of Engineering and Computer Science** - Le Kremlin-Bicêtre, Paris, France.
+📍 **EPITA - École Pour l'Informatique et les Techniques Avancées** - Le Kremlin-Bicêtre, Paris, France.
 
 <details>
-<summary>🎓 Bachelor's degree - Computers</summary>
+<summary>🎓 Licence En Informatique</summary>
  
 📆 2012 - 2015\
-📍 Osmania university - Hyderabad, India.
+📍 Osmania university - Hyderabad, Inde.
 </details>
 
 <details>
-<summary>🏫 Secondary education - Mathematics, Physics & Chemistry</summary>
+<summary>🏫 Éducation secondaire - Mathématiques, Physique et Chimie</summary>
 
 📆 2010 - 2012\
-📍 Narayana Junior College - Hyderabad, India.
+📍 Narayana Junior College - Hyderabad, Inde.
 </details>
 
 <details>
-<summary>🏫 Primary education</summary>
+<summary>🏫 Éducation primaire</summary>
  
 📆 2000 - 2010\
-📍 ShantiNiketan High school - Hyderabad, India.
+📍 ShantiNiketan High school - Hyderabad, Inde.
 </details>
 
 
 ---
 
-<h1 align="center">Professional experience</h1>
+<h1 align="center">Expérience professionnelle</h1>
 <h2 align="center">HORIZON PHARMA 11/2020 - 05/2021</h2>
-<h3 align="center">Project background</h3>
+<h3 align="center">Contexte général</h3>
 
-- Horizon Pharma is a pharmaceutical company, distributor of medicines to pharmacies.
-- Mobile Delivery is a delivery-based application that aims to manage all deliveries for Horizon-pharma and other companies.
-- It manages pickups and B2B deliveries.
-- The application is built with the native Honeywell mobile computer React framework, built on Android, is used to scan and deliver packages.
-- Project to develop a mobile app for delivery drivers to pick up and deliver the drugs to the pharmacies.
-- 2nd project is a web app specific to the company.
+- Horizon Pharma est une entreprise pharmaceutique, distributeur de médicaments aux pharmacies.
+- Projet de développer une app mobile pour les livreurs qui récupèrent et livrent les médicaments aux pharmacies.
+- Livraison Mobile est une application basée sur la livraison qui a pour but de gérer toutes les livraisons d'Horizon-pharma et d'autres entreprises.
+- Elle gère les enlèvements et les livraisons B2B.
+- L'application est construite avec le framework React native pour ordinateur mobile Honeywell, construit sur Android, est utilisé pour scanner et livrer les colis.
 
-<h3 align="center">Missions</h3>
+<h3 align="center">Travail réalisé</h3>
 
-**User Interface development: Design and prototype - Adobe XD**.
-1. UI development of Mobile App Deliverer
-2. UI development of App Web Horizon Pharma
+**Développement de User Interface : Design et prototype - Adobe XD**.
+1. Développement UI de App Mobile Livreur
+2. Développement UI de App Web Horizon Pharma
 
-**Mobile Delivery Application for Honeywell mobile computer - Frontend -React Native**.
+**Application Mobile Livreur pour ordinateur mobile Honeywell - Frontend -React Native TS**.
 
-1. Development of new screens and features from scratch
-2. Developed a map screen to be able to start and end delivery and track the route.
-3. React Native maps is used to display and interpret the Google maps API.
-4. Used AsyncStorage to store the state of the application.
-5. Worked with real time location tracking using react-native-maps.
-6. Used Redux thunk middleware to handle asynchronous data to interact with the Redux store.
-7. Unit tests implemented
+1. Développement de nouveaux écrans et fonctionnalités à partir du scratch
+2. Développé un écran de carte afin de pouvoir commencer et terminer la livraison et suivre l'itinéraire.
+3. React Native maps est utilisé pour afficher et interpréter l'API de Google maps.
+4. Utilisation d'AsyncStorage pour stocker l'état de l'application
+5. Travaillé avec le suivi de localisation en temps réel en utilisant react-native-maps.
+6. Utilisé Redux thunk middleware pour gérer les données asynchrones afin d'interagir avec le Redux store.
 
-**Horizon Pharma Web Application - Fullstack - React TypeScript, NodeJS, Express, MySql**
 
-1. Development of new screens and features from scratch
-2. Development of RESTful APIs using nodeJS to manage screen content.
-3. Worked on CRUD operations to be able to modify all the content of the site.
-4. Used JWTWeb Tokens for connection authorization
-5. Added migration files to make changes in the database schema using db-migrate.
-6. Unit & snapshot tests implemented
+**Application Web Horizon Pharma - Fullstack - ReactJS, NodeJS, Express, MySql**
 
-**Web Application - Frontend - React JS**
+1. Développement de nouveaux écrans et fonctionnalités à partir du scratch
+2. Développement de RESTful APIs en utilisant nodeJS pour gérer le contenu des écrans.
+3. Travaillé sur des opérations CRUD pour pouvoir modifier tout le contenu du site.
+4. Utilisé des JWTWeb Tokens pour l'autorisation de connexion
+5. Ajout de fichiers de migration pour effectuer des changements dans le schéma de la base de données en utilisant db-migrate.
 
-1. Development of new screens and features
-2. Development of Excel, PDF, CSV files to download from the table.
+**Application Web Doctia - Frontend - React JS**
 
-**Worked in an agile environment following sprints and scrum methodologies**.
+1. Développement de nouveaux écrans et fonctionnalités
+2. Développement de fichiers Excel, PDF, CSV à télécharger à partir du tableau.
 
-<h3 align="center">Technical stack</h3>
+**Travaillé dans un environnement agile en suivant les sprints et les méthodologies scrum.**
+
+<h3 align="center">Environnemment technique</h3>
 
 **LANGUAGES**: React Native, React (JS & TS)- Redux, Redux Thunk
 
-**DBMS**: NodeJs, MySQL, Express
+**SGBD**: NodeJs, MySQL, Express
 
-**SYSTEMS**: Linux, Windows
+**SYSTÈMES**: Linux, Windows
 
-**METHODS**: Agile
+**MÉTHODE**: Agile
 
-**TOOLS**: GIT, Jest, Jira, Postman, VS Code, HeidiSQL, AdobeXD, Penpot
+**OUTILS**: GIT, Jest, Jira, Postman, VS Code, HeidiSQL, AdobeXD, Penpot
 
 ---
 
