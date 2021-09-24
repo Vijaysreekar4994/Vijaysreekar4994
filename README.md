@@ -85,7 +85,7 @@
 1. UI development of Mobile App Deliverer
 2. UI development of App Web Horizon Pharma
 
-**Mobile Delivery Application for Honeywell mobile computer - Frontend -React Native**.
+**Mobile Delivery Application for Honeywell mobile computer - Frontend -React Native TS**.
 
 1. Development of new screens and features from scratch
 2. Developed a map screen to be able to start and end delivery and track the route.
@@ -95,7 +95,7 @@
 6. Used Redux thunk middleware to handle asynchronous data to interact with the Redux store.
 7. Unit tests implemented
 
-**Horizon Pharma Web Application - Fullstack - React TypeScript, NodeJS, Express, MySql**
+**Horizon Pharma Web Application - Fullstack - ReactJS, NodeJS, Express, MySql**
 
 1. Development of new screens and features from scratch
 2. Development of RESTful APIs using nodeJS to manage screen content.
