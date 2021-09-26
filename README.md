@@ -210,6 +210,6 @@ Worked with multiple clients in UI development using JS.
 1. Tool is used in the banking sector, where credit cards are opened
 2. Worked on application automatization to solve UI problems in this process
 
-<h3 align="center">Technical skills</h3>
+<h3 align="center">Technical stack</h3>
 
 HTML, CSS, JS, jQuery, Ajax, JSON, XML, REST, SOAP, Webpack, Babel, PHP, Postman.
