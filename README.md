@@ -69,8 +69,7 @@
 ---
 
 <h1 align="center">Expérience professionnelle</h1>
-<h2 align="center">HORIZON PHARMA 11/2020 - 05/2021</h2>
-<h2 align="center">INGÉNIEUR FRONT-END</h2>
+<h2 align="center">INGÉNIEUR FRONT-END : Horizon Pharma 11/2020 - 05/2021</h2>
 <h3 align="center">Contexte général</h3>
 
 - Horizon Pharma est une entreprise pharmaceutique, distributeur de médicaments aux pharmacies.
@@ -127,8 +126,7 @@
 ---
 
 
-<h2 align="center">HO SOLUTIONS 10/2019 - 07/2020</h2>
-<h2 align="center">DÉVELOPPEUR REACT / REACT NATIVE</h2>
+<h2 align="center">DÉVELOPPEUR REACT / REACT NATIVE : HO Solutions 10/2019 - 07/2020</h2>
 <h3 align="center">Contexte général</h3>
 
 C’est un projet informatique mais également humain. Il s’agit d’une plateforme de livraisons, soit directes, soit planifiées de matériaux divers et d’électroménager.
@@ -189,8 +187,7 @@ matériaux qu’ils vendent, ainsi que les commandes qu’ils reçoivent via DoF
 
 ---
 
-<h2 align="center">TATA CONSULTANCY SERIVCES 09/2016 - 08/2018</h2>
-<h2 align="center">DÉVELOPPEUR FRONT-END JUNIOR</h2>
+<h2 align="center">DÉVELOPPEUR FRONT-END JUNIOR : Tata consultancy SERIVCES 09/2016 - 08/2018</h2>
 <h3 align="center">Contexte général</h3>
 
 Travail avec 3 clients dans le développement d'interfaces utilisateur en utilisant JS.
