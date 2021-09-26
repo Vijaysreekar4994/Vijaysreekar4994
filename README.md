@@ -8,7 +8,7 @@
 
 
 <p align='center'> 
-   Développeur Frontend <br />
+   Développeur React / React Native <br />
    À la recherche d'un contrat à temps plein:dart: <br />
    Très passionné par la création de UI responsives pour les applications web et mobile
 </p>
