@@ -8,8 +8,8 @@
 
 
 <p align='center'> 
-   Développeur React / React Native. <br />
-   À la recherche d’un contrat CDI en Développement Frontend.:dart: <br />
+   Développeur Frontend <br />
+   À la recherche d'un contrat à temps plein:dart: <br />
    Très passionné par la création de UI responsives pour les applications web et mobile
 </p>
 
@@ -69,7 +69,8 @@
 ---
 
 <h1 align="center">Expérience professionnelle</h1>
-<h2 align="center">INGÉNIEUR FRONT-END : Horizon Pharma 11/2020 - 05/2021</h2>
+<h2 align="center">Horizon Pharma 11/2020 - 05/2021</h2>
+<h3 align="center">INGÉNIEUR FRONT-END</h3>
 <h3 align="center">Contexte général</h3>
 
 - Horizon Pharma est une entreprise pharmaceutique, distributeur de médicaments aux pharmacies.
@@ -126,7 +127,8 @@
 ---
 
 
-<h2 align="center">DÉVELOPPEUR REACT / REACT NATIVE : HO Solutions 10/2019 - 07/2020</h2>
+<h2 align="center">HO Solutions 10/2019 - 07/2020</h2>
+<h3 align="center">DÉVELOPPEUR REACT / REACT NATIVE</h3>
 <h3 align="center">Contexte général</h3>
 
 C’est un projet informatique mais également humain. Il s’agit d’une plateforme de livraisons, soit directes, soit planifiées de matériaux divers et d’électroménager.
@@ -187,7 +189,8 @@ matériaux qu’ils vendent, ainsi que les commandes qu’ils reçoivent via DoF
 
 ---
 
-<h2 align="center">DÉVELOPPEUR FRONT-END JUNIOR : Tata consultancy SERIVCES 09/2016 - 08/2018</h2>
+<h2 align="center">Tata consultancy Services 09/2016 - 08/2018</h2>
+<h3 align="center">DÉVELOPPEUR FRONT-END JUNIOR</h3>
 <h3 align="center">Contexte général</h3>
 
 Travail avec 3 clients dans le développement d'interfaces utilisateur en utilisant JS.
