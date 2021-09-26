@@ -9,8 +9,8 @@
 
 <p align='center'> 
    Front-end Developer. 
-	<img height="20px" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" />
-	<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+	<img height="15px" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" />
+	<img height="15px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 	<br />
    Actively in search of Full-time contract in Frontend development.:dart: <br />
    Passionate about creating responsive UIs for Web & Mobile apps.
