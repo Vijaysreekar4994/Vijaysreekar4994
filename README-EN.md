@@ -70,7 +70,7 @@
 
 <h1 align="center">Professional experience</h1>
 <h2 align="center">HORIZON PHARMA 11/2020 - 05/2021</h2>
-<h2 align="center">Front-end Engineer</h2>
+<h3 align="center">FRONT-END ENGINEER</h3>
 <h3 align="center">Project background</h3>
 
 - Horizon Pharma is a pharmaceutical company, distributor of medicines to pharmacies.
@@ -128,7 +128,7 @@
 
 
 <h2 align="center">HO SOLUTIONS 10/2019 - 07/2020</h2>
-<h2 align="center">React & React Native Developer</h2>
+<h3 align="center">REACT & REACT NATIVE DEVELOPER</h3>
 <h3 align="center">Project background</h3>
 
 The project is developed on two platforms: web and mobile.
@@ -189,7 +189,7 @@ materials they sell, as well as the orders they receive via DoFissa.
 ---
 
 <h2 align="center">TATA CONSULTANCY SERIVCES 09/2016 - 08/2018</h2>
-<h2 align="center">Junior Front-end Developer</h2>
+<h3 align="center">JUNIOR FRONT-END DEVELOPER</h3>
 <h3 align="center">Project background and Missions</h3>
 
 Worked with multiple clients in UI development using JS.
