@@ -8,7 +8,7 @@
 
 
 <p align='center'> 
-   React / React Native Developer. <br />
+   Front-end Developer. <br />
    Actively in search of Full-time contract in Frontend development.:dart: <br />
    Passionate about creating responsive UIs for Web & Mobile apps.
 </p>
