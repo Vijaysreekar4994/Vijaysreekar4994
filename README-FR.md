@@ -190,7 +190,7 @@ matériaux qu’ils vendent, ainsi que les commandes qu’ils reçoivent via DoF
 <h2 align="center">TATA CONSULTANCY SERIVCES 09/2016 - 08/2018</h2>
 <h3 align="center">Contexte général</h3>
 
-Travail avec plusieurs clients dans le développement d'interfaces utilisateur en utilisant JS.
+Travail avec 3 clients dans le développement d'interfaces utilisateur en utilisant JS.
 
 **Application Web 1- Frontend - Javascript**
 
