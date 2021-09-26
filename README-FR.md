@@ -92,6 +92,7 @@
 4. Utilisation d'AsyncStorage pour stocker l'état de l'application
 5. Travaillé avec le suivi de localisation en temps réel en utilisant react-native-maps.
 6. Utilisé Redux thunk middleware pour gérer les données asynchrones afin d'interagir avec le Redux store.
+7. Tests unitaires réalisés
 
 
 **Application Web Horizon Pharma - Fullstack - ReactJS, NodeJS, Express, MySql**
@@ -100,7 +101,8 @@
 2. Développement de RESTful APIs en utilisant nodeJS pour gérer le contenu des écrans.
 3. Travaillé sur des opérations CRUD pour pouvoir modifier tout le contenu du site.
 4. Utilisé des JWTWeb Tokens pour l'autorisation de connexion
-5. Ajout de fichiers de migration pour effectuer des changements dans le schéma de la base de données en utilisant db-migrate.
+5. Ajout de fichiers de migration pour effectuer des changements dans le schéma de la base de données en utilisant db-migrate
+6. Tests unitaires réalisés
 
 **Application Web Doctia - Frontend - React JS**
 
@@ -125,89 +127,90 @@
 
 
 <h2 align="center">HO SOLUTIONS 10/2019 - 07/2020</h2>
-<h3 align="center">Project background</h3>
+<h3 align="center">Contexte général</h3>
 
-The project is developed on two platforms: web and mobile.
-On each of these platforms, there are three "sub-projects":
-- Customer: here, customers can order, manage their account, or even
-make complaints.
-- Delivery person: this is the project reserved for delivery people, where they can receive a
-They can receive a delivery, look at their shopping history, or manage their account.
-- Partner: partner stores have access to this project. They manage the
-materials they sell, as well as the orders they receive via DoFissa.
-- This is an IT project but also a human project. It is a platform for direct or planned deliveries of various materials and household appliances. 
+C’est un projet informatique mais également humain. Il s’agit d’une plateforme de livraisons, soit directes, soit planifiées de matériaux divers et d’électroménager.
+
+- Le projet est développé sur deux plateformes : web et mobile.
+Sur chacune de ces plateformes, il y a trois « sous-projets » :
+	- **Client** : ici, les clients peuvent commander, gérer leur compte, ou encore
+faire des réclamations.
+	- **Livreur** : c’est le projet réservé aux livreurs, ils peuvent y recevoir une
+course, regarder leur historique de courses, ou encore gérer leur compte.
+	- **Partenaire** : les magasins partenaires ont accès à ce projet. Ils gèrent les
+matériaux qu’ils vendent, ainsi que les commandes qu’ils reçoivent via DoFissa
 
 
-<h3 align="center">Missions</h3>
+<h3 align="center">Travail réalisé</h3>
 
-**User Interface development: Design and prototype - Adobe XD**.
+**Développement de User Interface : Design et prototype - Adobe XD**.
 
-1. UI development of App Mobile Livreur
-2. UI development of App Mobile Partner
-3. UI development of the deliveryman management web app
+1. Développement UI de App Mobile Livreur
+2. Développement UI de App Mobile Partenaire
+3. Développement UI de App Web de gestion des livreurs
 
-**Mobile delivery application - Frontend -React Native**.
+**Application Mobile Livreur - Frontend -React Native**.
 
-1. Development of new screens and features
-2. React Native maps is used to display and interpret the Google maps API.
-3. Worked with real time location tracking using react-native-maps.
-4. Used Redux thunk middleware to handle asynchronous data to interact with the Redux store.
-5. Used Axios to send all our http requests to our server.
-6. Used sockets to track positions in real time and to manage orders in progress.
-7. Unit tests implemented
+1. Développement de nouveaux écrans et fonctionnalités
+2. React Native maps est utilisé pour afficher et interpréter l'API de Google maps.
+3. Travaillé avec le suivi de localisation en temps réel en utilisant react-native-maps.
+4. Utilisé Redux thunk middleware pour gérer les données asynchrones afin d'interagir avec le Redux store.
+5. Axios est utilisé pour envoyer toutes nos requêtes http vers notre serveur.
+6. Utilisé des sockets pour suivre les positions en temps réel et pour gérer les commandes en cours.
+7. Tests unitaires réalisés
 
-**Partner Mobile Application- Frontend -React Native**
+**Application Mobile Partenaire- Frontend -React Native**
 
-1. Developed new screens and features
-2. Used sockets to manage orders in progress
-3. Unit tests implemented
+1. Développement de nouveaux écrans et fonctionnalités
+2. Utilisé des sockets pour gérer les commandes en cours
+3. Tests unitaires réalisés
 
-**Web application for managing delivery drivers - Frontend - React JS.**
+**Application Web de gestion des livreurs - Frontend- React JS**
 
-1. Developed new screens and features from scratch
-2. Development of constituent Excel files to be downloaded from the table.
-3. Unit tests implemented
+1. Développement de nouveaux écrans et fonctionnalités à partir du scratch
+2. Développement de fichiers Excel constitutifs à télécharger à partir du tableau.
+3. Tests unitaires réalisés
 
-**Worked in an agile environment following sprints and scrum methodologies.**
+**Travaillé dans un environnement agile en suivant les sprints et les méthodologies scrum.**
 
-<h3 align="center">Technical stack</h3>
+<h3 align="center">Environnemment technique</h3>
 
-**LANGUAGES**: JavaScript, React Native, React 
+**LANGAGES**: JavaScript, React Native, React 
 
-**DBMS**: NodeJs, MongoDB, NoSQL
+**SGBD**: NodeJs, MongoDB, NoSQL
 
-**SYSTEMS**: Windows, Mac
+**SYSTÈMES**: Windows, Mac
 
-**METHODS**: Agile
+**MÉTHODE**: Agile
 
-**TOOLS**: Postman, VS Code, AdobeXD 
+**OUTILS**: Postman, VS Code, AdobeXD 
 
 ---
 
 <h2 align="center">TATA CONSULTANCY SERIVCES 09/2016 - 08/2018</h2>
-<h3 align="center">Project background and Missions</h3>
+<h3 align="center">Contexte général</h3>
 
-Worked with multiple clients in UI development using JS.
+Travail avec plusieurs clients dans le développement d'interfaces utilisateur en utilisant JS.
 
-**Web application 1- Frontend - Javascript**
+**Application Web 1- Frontend - Javascript**
 
-1. Development of new screens and features and maintenance.
-2. Used Ajax in JSON and XML format to process asynchronous requests
-3. Used JQuery validation plug-ins for connection
-4. Unit tests implemented
+1. Développement de nouveaux écrans et fonctionnalités et assurer la maintenance.
+2. Utilisé Ajax au format JSON et XML pour le traitement des demandes asynchrones
+3. Utilisé les plug-in de validation JQuery pour connexion
+4. Tests unitaires réalisés
 
-**Web application 2- Frontend - Javascript**
+**Application Web 2- Frontend - Javascript**
 
-1. Worked on the existing web application to add new features and ensure maintenance.
-2. Used scss for styling
-3. Used Webpack plug-ins
-4. Unit tests implemented
+1. Travaillé sur l'application web existante pour ajouter de nouvelles fonctionnalités et assurer la maintenance.
+2. Utilisation de scss pour le style
+3. Utilisation des plug-ins Webpack
+4. Tests unitaires réalisés
 
 **Application automatization - Frontend - Javascript**
 
-1. Tool is used in the banking sector, where credit cards are opened
-2. Worked on application automatization to solve UI problems in this process
+1. Outil est utilisé dans le secteur bancaire, où les cartes de crédit sont ouverts
+2. Travaillé sur l'application automatization pour résoudre les problèmes UI dans ce processus
 
-<h3 align="center">Technical skills</h3>
+<h3 align="center">Environnemment technique</h3>
 
 HTML, CSS, JS, jQuery, Ajax, JSON, XML, REST, SOAP, Webpack, Babel, PHP, Postman.
