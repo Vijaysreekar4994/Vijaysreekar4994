@@ -95,6 +95,7 @@
 6. Utilisé Redux thunk middleware pour gérer les données asynchrones afin d'interagir avec le Redux store.
 7. Tests unitaires réalisés
 8. Documentation pour le développement continu
+9. Les tests E2E impliquent des réunions avec l'utilisateur final pour améliorer les performances de l'application.
 
 
 **Application Web Horizon Pharma - Fullstack - ReactJS, NodeJS, Express, MySql**
