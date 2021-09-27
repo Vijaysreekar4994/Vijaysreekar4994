@@ -98,6 +98,7 @@
 5. Worked with real time location tracking using react-native-maps.
 6. Used Redux thunk middleware to handle asynchronous data to interact with the Redux store.
 7. Unit tests implemented
+8. Documentation for continuous development
 
 **Horizon Pharma Web Application - Fullstack - ReactJS, NodeJS, Express, MySql**
 
