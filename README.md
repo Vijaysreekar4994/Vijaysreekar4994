@@ -85,7 +85,7 @@
 1. Développement UI de App Mobile Livreur
 2. Développement UI de App Web Horizon Pharma
 
-**Application Mobile Livreur pour ordinateur mobile Honeywell - Frontend -React Native TS**.
+**PROJECT 1 : Application Mobile Livreur pour ordinateur mobile Honeywell - Frontend -React Native TS**.
 
 1. Développement de nouveaux écrans et fonctionnalités à partir du scratch
 2. Développé un écran de carte afin de pouvoir commencer et terminer la livraison et suivre l'itinéraire.
@@ -98,7 +98,7 @@
 9. Les tests E2E impliquent des réunions avec l'utilisateur final pour améliorer les performances de l'application.
 
 
-**Application Web Horizon Pharma - Fullstack - ReactJS, NodeJS, Express, MySql**
+**PROJECT 2 : Application Web Horizon Pharma - Fullstack - ReactJS, NodeJS, Express, MySql**
 
 1. Développement de nouveaux écrans et fonctionnalités à partir du scratch
 2. Développement de RESTful APIs en utilisant nodeJS pour gérer le contenu des écrans.
@@ -107,7 +107,7 @@
 5. Ajout de fichiers de migration pour effectuer des changements dans le schéma de la base de données en utilisant db-migrate
 6. Tests unitaires réalisés
 
-**Application Web Doctia - Frontend - React JS**
+**PROJECT 3 : Application Web Doctia - Frontend - Next JS**
 
 1. Développement de nouveaux écrans et fonctionnalités
 2. Développement de fichiers Excel, PDF, CSV à télécharger à partir du tableau.
@@ -137,13 +137,9 @@ C’est un projet informatique mais également humain. Il s’agit d’une plate
 
 - Le projet est développé sur deux plateformes : web et mobile.
 Sur chacune de ces plateformes, il y a trois « sous-projets » :
-	- **Client** : ici, les clients peuvent commander, gérer leur compte, ou encore
-faire des réclamations.
-	- **Livreur** : c’est le projet réservé aux livreurs, ils peuvent y recevoir une
-course, regarder leur historique de courses, ou encore gérer leur compte.
-	- **Partenaire** : les magasins partenaires ont accès à ce projet. Ils gèrent les
-matériaux qu’ils vendent, ainsi que les commandes qu’ils reçoivent via DoFissa
-
+	- **Client** : ici, les clients peuvent commander, gérer leur compte, ou encore faire des réclamations.
+	- **Livreur** : c’est le projet réservé aux livreurs, ils peuvent y recevoir une course, regarder leur historique de courses, ou encore gérer leur compte.
+	- **Partenaire** : les magasins partenaires ont accès à ce projet. Ils gèrent les matériaux qu’ils vendent, ainsi que les commandes qu’ils reçoivent via DoFissa
 
 <h3 align="center">Travail réalisé</h3>
 
@@ -153,7 +149,7 @@ matériaux qu’ils vendent, ainsi que les commandes qu’ils reçoivent via DoF
 2. Développement UI de App Mobile Partenaire
 3. Développement UI de App Web de gestion des livreurs
 
-**Application Mobile Livreur - Frontend -React Native**.
+**PROJECT 1 : Application Mobile Livreur - Frontend -React Native**.
 
 1. Développement de nouveaux écrans et fonctionnalités
 2. React Native maps est utilisé pour afficher et interpréter l'API de Google maps.
@@ -163,13 +159,13 @@ matériaux qu’ils vendent, ainsi que les commandes qu’ils reçoivent via DoF
 6. Utilisé des sockets pour suivre les positions en temps réel et pour gérer les commandes en cours.
 7. Tests unitaires réalisés
 
-**Application Mobile Partenaire- Frontend -React Native**
+**PROJECT 2 : Application Mobile Partenaire- Frontend -React Native**
 
 1. Développement de nouveaux écrans et fonctionnalités
 2. Utilisé des sockets pour gérer les commandes en cours
 3. Tests unitaires réalisés
 
-**Application Web de gestion des livreurs - Frontend- React JS**
+**PROJECT 3 : Application Web de gestion des livreurs - Frontend- React JS**
 
 1. Développement de nouveaux écrans et fonctionnalités à partir du scratch
 2. Développement de fichiers Excel constitutifs à télécharger à partir du tableau.
@@ -197,21 +193,21 @@ matériaux qu’ils vendent, ainsi que les commandes qu’ils reçoivent via DoF
 
 Travail avec 3 clients dans le développement d'interfaces utilisateur en utilisant JS.
 
-**Application Web 1- Frontend - Javascript**
+**Client 1 : Application Web - Frontend - Javascript**
 
 1. Développement de nouveaux écrans et fonctionnalités et assurer la maintenance.
 2. Utilisé Ajax au format JSON et XML pour le traitement des demandes asynchrones
 3. Utilisé les plug-in de validation JQuery pour connexion
 4. Tests unitaires réalisés
 
-**Application Web 2- Frontend - Javascript**
+**Client 2 : Application Web - Frontend - Javascript**
 
 1. Travaillé sur l'application web existante pour ajouter de nouvelles fonctionnalités et assurer la maintenance.
 2. Utilisation de scss pour le style
 3. Utilisation des plug-ins Webpack
 4. Tests unitaires réalisés
 
-**Application automatization - Frontend - Javascript**
+**Client 3 : Application automatization - Frontend - Javascript**
 
 1. Outil est utilisé dans le secteur bancaire, où les cartes de crédit sont ouverts
 2. Travaillé sur l'application automatization pour résoudre les problèmes UI dans ce processus
