@@ -84,11 +84,11 @@
 
 <h3 align="center">Missions</h3>
 
-**User Interface development: Design and prototype - Adobe XD**.
+**Design and prototype - Adobe XD : User Interface development**.
 1. UI development of Mobile App Deliverer
 2. UI development of App Web Horizon Pharma
 
-**Mobile Delivery Application for Honeywell mobile computer - Frontend -React Native TS**.
+**PROJECT 1 : Mobile Delivery Application for Honeywell mobile computer - Frontend -React Native TS**.
 
 1. Development of new screens and features from scratch
 2. Developed a map screen to be able to start and end delivery and track the route.
@@ -100,7 +100,7 @@
 8. Documentation for continuous development
 9. E2E testing involved - meetings with end user to improve the application's performance.
 
-**Horizon Pharma Web Application - Fullstack - ReactJS, NodeJS, Express, MySql**
+**PROJECT 2 : Horizon Pharma Web Application - Fullstack - ReactJS, NodeJS, Express, MySql**
 
 1. Development of new screens and features from scratch
 2. Development of RESTful APIs using nodeJS to manage screen content.
@@ -109,7 +109,7 @@
 5. Added migration files to make changes in the database schema using db-migrate.
 6. Unit & snapshot tests implemented
 
-**Web Application - Frontend - React JS**
+**PROJECT 3 : Web Application - Frontend - React JS**
 
 1. Development of new screens and features
 2. Development of Excel, PDF, CSV files to download from the table.
@@ -137,24 +137,21 @@
 
 The project is developed on two platforms: web and mobile.
 On each of these platforms, there are three "sub-projects":
-- Customer: here, customers can order, manage their account, or even
-make complaints.
-- Delivery person: this is the project reserved for delivery people, where they can receive a
-They can receive a delivery, look at their shopping history, or manage their account.
-- Partner: partner stores have access to this project. They manage the
-materials they sell, as well as the orders they receive via DoFissa.
-- This is an IT project but also a human project. It is a platform for direct or planned deliveries of various materials and household appliances. 
+- **Customer:** here, customers can order, manage their account, or even make complaints.
+- **Delivery person:** this is the project reserved for delivery people, where they can receive a They can receive a delivery, look at their shopping history, or manage their account.
+- **Partner:** partner stores have access to this project. They manage the materials they sell, as well as the orders they receive via DoFissa.
+- This is an IT project. It is a platform for direct or planned deliveries of various materials and household appliances. 
 
 
 <h3 align="center">Missions</h3>
 
-**User Interface development: Design and prototype - Adobe XD**.
+**Design and prototype - Adobe XD : User Interface development**.
 
 1. UI development of App Mobile Livreur
 2. UI development of App Mobile Partner
 3. UI development of the deliveryman management web app
 
-**Mobile delivery application - Frontend -React Native**.
+**PROJECT 1 : Mobile delivery application - Frontend -React Native**.
 
 1. Development of new screens and features
 2. React Native maps is used to display and interpret the Google maps API.
@@ -164,13 +161,13 @@ materials they sell, as well as the orders they receive via DoFissa.
 6. Used sockets to track positions in real time and to manage orders in progress.
 7. Unit tests implemented
 
-**Partner Mobile Application- Frontend -React Native**
+**PROJECT 2 : Partner Mobile Application- Frontend -React Native**
 
 1. Developed new screens and features
 2. Used sockets to manage orders in progress
 3. Unit tests implemented
 
-**Web application for managing delivery drivers - Frontend - React JS.**
+**PROJECT 3 : Web application for managing delivery drivers - Frontend - React JS.**
 
 1. Developed new screens and features from scratch
 2. Development of constituent Excel files to be downloaded from the table.
@@ -198,24 +195,24 @@ materials they sell, as well as the orders they receive via DoFissa.
 
 Worked with multiple clients in UI development using JS.
 
-**Web application 1- Frontend - Javascript**
+**PROJECT 1 : Web application- Frontend - Javascript**
 
 1. Development of new screens and features and maintenance.
 2. Used Ajax in JSON and XML format to process asynchronous requests
 3. Used JQuery validation plug-ins for connection
 4. Unit tests implemented
 
-**Web application 2- Frontend - Javascript**
+**PROJECT 2 : Web application- Frontend - Javascript**
 
 1. Worked on the existing web application to add new features and ensure maintenance.
 2. Used scss for styling
 3. Used Webpack plug-ins
 4. Unit tests implemented
 
-**Application automatization - Frontend - Javascript**
+**PROJECT 3 : Banking web application - Frontend - Javascript**
 
 1. Tool is used in the banking sector, where credit cards are opened
-2. Worked on application automatization to solve UI problems in this process
+2. Worked on automation application to solve UI problems in this process
 
 <h3 align="center">Technical stack</h3>
 
