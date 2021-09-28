@@ -195,21 +195,21 @@ On each of these platforms, there are three "sub-projects":
 
 Worked with multiple clients in UI development using JS.
 
-**PROJECT 1 : Web application- Frontend - Javascript**
+**Client 1 : Web application- Frontend - Javascript**
 
 1. Development of new screens and features and maintenance.
 2. Used Ajax in JSON and XML format to process asynchronous requests
 3. Used JQuery validation plug-ins for connection
 4. Unit tests implemented
 
-**PROJECT 2 : Web application- Frontend - Javascript**
+**Client 2 : Web application- Frontend - Javascript**
 
 1. Worked on the existing web application to add new features and ensure maintenance.
 2. Used scss for styling
 3. Used Webpack plug-ins
 4. Unit tests implemented
 
-**PROJECT 3 : Banking web application - Frontend - Javascript**
+**Client 3 : Banking web application - Frontend - Javascript**
 
 1. Tool is used in the banking sector, where credit cards are opened
 2. Worked on automation application to solve UI problems in this process
