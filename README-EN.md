@@ -81,7 +81,6 @@
 - It manages pickups and B2B deliveries.
 - The application is built with the native Honeywell mobile computer React framework, built on Android, is used to scan and deliver packages.
 - Project to develop a mobile app for delivery drivers to pick up and deliver the drugs to the pharmacies.
-- 2nd project is a web app specific to the company.
 
 <h3 align="center">Missions</h3>
 
