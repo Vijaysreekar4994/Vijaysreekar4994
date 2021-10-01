@@ -116,15 +116,15 @@
 
 <h3 align="center">Environnemment technique</h3>
 
-**LANGUAGES**: React Native, React (JS & TS)- Redux, Redux Thunk
+**LANGUAGES**: React Native, React (JS & TS)- Redux
 
-**SGBD**: NodeJs, MySQL, Express
+**SGBD**: NodeJs, MySQL, Express, PHP
 
 **SYSTÈMES**: Linux, Windows
 
 **MÉTHODE**: Agile
 
-**OUTILS**: GIT, Jest, Jira, Postman, VS Code, HeidiSQL, AdobeXD, Penpot
+**OUTILS**: GIT, Jest, Jira, Postman, VS Code, HeidiSQL, AdobeXD, Penpot, CircleCi, Slack.
 
 ---
 
@@ -183,7 +183,7 @@ Sur chacune de ces plateformes, il y a trois « sous-projets » :
 
 **MÉTHODE**: Agile
 
-**OUTILS**: Postman, VS Code, AdobeXD 
+**OUTILS**: Postman, Jest, VS Code, AdobeXD, Trello
 
 ---
 
