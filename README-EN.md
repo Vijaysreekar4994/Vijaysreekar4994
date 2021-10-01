@@ -118,7 +118,7 @@
 
 <h3 align="center">Technical stack</h3>
 
-**LANGUAGES**: React Native, React (JS & TS)- Redux, Redux Thunk
+**LANGUAGES**: React Native, React (JS & TS)- Redux
 
 **DBMS**: NodeJs, MySQL, Express
 
@@ -126,7 +126,7 @@
 
 **METHODS**: Agile
 
-**TOOLS**: GIT, Jest, Jira, Postman, VS Code, HeidiSQL, AdobeXD, Penpot
+**TOOLS**: GIT, Jest, Jira, Postman, VS Code, HeidiSQL, AdobeXD, Penpot, CircleCi, Slack.
 
 ---
 
@@ -185,7 +185,7 @@ On each of these platforms, there are three "sub-projects":
 
 **METHODS**: Agile
 
-**TOOLS**: Postman, VS Code, AdobeXD 
+**TOOLS**: Postman, VS Code, AdobeXD, Jest, Trello
 
 ---
 
