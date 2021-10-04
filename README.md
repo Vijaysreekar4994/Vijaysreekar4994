@@ -85,7 +85,7 @@
 1. Développement UI de App Mobile Livreur
 2. Développement UI de App Web Horizon Pharma
 
-**PROJECT 1 : Application Mobile Livreur pour ordinateur mobile Honeywell - Frontend -React Native TS**.
+**PROJET 1 : Application Mobile Livreur pour ordinateur mobile Honeywell - Frontend -React Native TS**.
 
 1. Développement de nouveaux écrans et fonctionnalités à partir du scratch
 2. Développé un écran de carte afin de pouvoir commencer et terminer la livraison et suivre l'itinéraire.
@@ -98,7 +98,7 @@
 9. Les tests E2E impliquent des réunions avec l'utilisateur final pour améliorer les performances de l'application.
 
 
-**PROJECT 2 : Application Web Horizon Pharma - Fullstack - ReactJS, NodeJS, Express, MySql**
+**PROJET 2 : Application Web Horizon Pharma - Fullstack - ReactJS, NodeJS, Express, MySql**
 
 1. Développement de nouveaux écrans et fonctionnalités à partir du scratch
 2. Développement de RESTful APIs en utilisant nodeJS pour gérer le contenu des écrans.
@@ -107,7 +107,7 @@
 5. Ajout de fichiers de migration pour effectuer des changements dans le schéma de la base de données en utilisant db-migrate
 6. Tests unitaires réalisés
 
-**PROJECT 3 : Application Web Doctia - Frontend - Next JS**
+**PROJET 3 : Application Web - Frontend - Next JS**
 
 1. Développement de nouveaux écrans et fonctionnalités
 2. Développement de fichiers Excel, PDF, CSV à télécharger à partir du tableau.
@@ -116,7 +116,7 @@
 
 <h3 align="center">Environnemment technique</h3>
 
-**LANGUAGES**: React Native, React (JS & TS)- Redux
+**LANGUAGES**: React Native, React (JS & TS)- Redux, Javascript, Typescript, Jest
 
 **SGBD**: NodeJs, MySQL, Express, PHP
 
@@ -124,7 +124,7 @@
 
 **MÉTHODE**: Agile
 
-**OUTILS**: GIT, Jest, Jira, Postman, VS Code, HeidiSQL, AdobeXD, Penpot, CircleCi, Slack.
+**OUTILS**: GIT, Jira, Postman, VS Code, HeidiSQL, AdobeXD, Penpot, CircleCi, Slack.
 
 ---
 
@@ -149,7 +149,7 @@ Sur chacune de ces plateformes, il y a trois « sous-projets » :
 2. Développement UI de App Mobile Partenaire
 3. Développement UI de App Web de gestion des livreurs
 
-**PROJECT 1 : Application Mobile Livreur - Frontend -React Native**.
+**PROJET 1 : Application Mobile Livreur - Frontend -React Native**.
 
 1. Développement de nouveaux écrans et fonctionnalités
 2. React Native maps est utilisé pour afficher et interpréter l'API de Google maps.
@@ -159,13 +159,13 @@ Sur chacune de ces plateformes, il y a trois « sous-projets » :
 6. Utilisé des sockets pour suivre les positions en temps réel et pour gérer les commandes en cours.
 7. Tests unitaires réalisés
 
-**PROJECT 2 : Application Mobile Partenaire- Frontend -React Native**
+**PROJET 2 : Application Mobile Partenaire- Frontend -React Native**
 
 1. Développement de nouveaux écrans et fonctionnalités
 2. Utilisé des sockets pour gérer les commandes en cours
 3. Tests unitaires réalisés
 
-**PROJECT 3 : Application Web de gestion des livreurs - Frontend- React JS**
+**PROJET 3 : Application Web de gestion des livreurs - Frontend- React JS**
 
 1. Développement de nouveaux écrans et fonctionnalités à partir du scratch
 2. Développement de fichiers Excel constitutifs à télécharger à partir du tableau.
