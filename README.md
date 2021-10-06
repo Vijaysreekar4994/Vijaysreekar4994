@@ -116,7 +116,7 @@
 
 <h3 align="center">Environnemment technique</h3>
 
-**LANGUAGES**: React Native, React (JS & TS)- Redux, Javascript, Typescript, Jest
+**LANGUAGES**: React Native, React (JS & TS)- Redux, Javascript, Typescript, Jest, NextJS
 
 **SGBD**: NodeJs, MySQL, Express, PHP
 
@@ -140,6 +140,7 @@ Sur chacune de ces plateformes, il y a trois « sous-projets » :
 	- **Client** : ici, les clients peuvent commander, gérer leur compte, ou encore faire des réclamations.
 	- **Livreur** : c’est le projet réservé aux livreurs, ils peuvent y recevoir une course, regarder leur historique de courses, ou encore gérer leur compte.
 	- **Partenaire** : les magasins partenaires ont accès à ce projet. Ils gèrent les matériaux qu’ils vendent, ainsi que les commandes qu’ils reçoivent via DoFissa
+	- **Gestion des livreurs** : permet de gérer toutes les opérations d'administration liées au livreur.
 
 <h3 align="center">Travail réalisé</h3>
 
