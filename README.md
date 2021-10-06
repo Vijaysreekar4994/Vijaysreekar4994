@@ -9,7 +9,7 @@
 
 <p align='center'> 
    Développeur React / React Native <br />
-   À la recherche d'un contrat à temps plein:dart: <br />
+   À la recherche d'un contrat à temps plein <br />
    Très passionné par la création de UI responsives pour les applications web et mobile
 </p>
 
