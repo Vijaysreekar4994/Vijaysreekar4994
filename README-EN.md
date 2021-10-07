@@ -2,7 +2,7 @@
 <!--   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
  Hi  
  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
- I'm Srikar 👨‍💻
+ I'm Srikar
  <a href='https://github.com/Vijaysreekar4994/'><img align="right" src="https://img.shields.io/badge/Fran%C3%A7ais-FR-blue" /></a>
 </h1>
 
