@@ -1,4 +1,4 @@
-<h1 align='center'>
+<h1 align='left'>
 <!--   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
  Bonjour  
  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
@@ -7,7 +7,7 @@
 </h1>
 
 
-<p align='center'> 
+<p align='left'> 
    Développeur React / React Native <br />
    À la recherche d'un contrat à temps plein <br />
    Très passionné par la création de UI responsives pour les applications web et mobile
