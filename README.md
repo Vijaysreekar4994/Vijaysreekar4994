@@ -73,58 +73,58 @@
 <h3 align="center">INGÉNIEUR FRONT-END</h3>
 <h3 align="center">Contexte général</h3>
 
-- Horizon Pharma est une entreprise pharmaceutique, distributeur de médicaments aux pharmacies.
-- Projet de développer une app mobile pour les livreurs qui récupèrent et livrent les médicaments aux pharmacies.
-- Livraison Mobile est une application basée sur la livraison qui a pour but de gérer toutes les livraisons d'Horizon-pharma et d'autres entreprises.
-- Elle gère les enlèvements et les livraisons B2B.
-- L'application est construite avec le framework React native pour ordinateur mobile Honeywell, construit sur Android, est utilisé pour scanner et livrer les colis.
+- <h6>Horizon Pharma est une entreprise pharmaceutique, distributeur de médicaments aux pharmacies.</h6>
+- <h6>Projet de développer une app mobile pour les livreurs qui récupèrent et livrent les médicaments aux pharmacies.</h6>
+- <h6>Livraison Mobile est une application basée sur la livraison qui a pour but de gérer toutes les livraisons d'Horizon-pharma et d'autres entreprises.</h6>
+- <h6>Elle gère les enlèvements et les livraisons B2B.</h6>
+- <h6>L'application est construite avec le framework React native pour ordinateur mobile Honeywell, construit sur Android, est utilisé pour scanner et livrer les colis.</h6>
 
 <h3 align="center">Travail réalisé</h3>
 
 **Développement de User Interface : Design et prototype - Adobe XD**.
-1. Développement UI de App Mobile Livreur
-2. Développement UI de App Web Horizon Pharma
+1. <h6>Développement UI de App Mobile Livreur</h6>
+2. <h6>Développement UI de App Web Horizon Pharma</h6>
 
 **PROJET 1 : Application Mobile Livreur pour ordinateur mobile Honeywell - Frontend -React Native TS**.
 
-1. Développement de nouveaux écrans et fonctionnalités à partir du scratch
-2. Développé un écran de carte afin de pouvoir commencer et terminer la livraison et suivre l'itinéraire.
-3. React Native maps est utilisé pour afficher et interpréter l'API de Google maps.
-4. Utilisation d'AsyncStorage pour stocker l'état de l'application
-5. Travaillé avec le suivi de localisation en temps réel en utilisant react-native-maps.
-6. Utilisé Redux thunk middleware pour gérer les données asynchrones afin d'interagir avec le Redux store.
-7. Tests unitaires réalisés
-8. Documentation pour le développement continu
-9. Les tests E2E impliquent des réunions avec l'utilisateur final pour améliorer les performances de l'application.
+1. <h6>Développement de nouveaux écrans et fonctionnalités à partir du scratch</h6>
+2. <h6>Développé un écran de carte afin de pouvoir commencer et terminer la livraison et suivre l'itinéraire.</h6>
+3. <h6>React Native maps est utilisé pour afficher et interpréter l'API de Google maps.</h6>
+4. <h6>Utilisation d'AsyncStorage pour stocker l'état de l'application</h6>
+5. <h6>Travaillé avec le suivi de localisation en temps réel en utilisant react-native-maps.</h6>
+6. <h6>Utilisé Redux thunk middleware pour gérer les données asynchrones afin d'interagir avec le Redux store.</h6>
+7. <h6>Tests unitaires réalisés.</h6>
+8. <h6>Documentation pour le développement continu</h6>
+9. <h6>Les tests E2E impliquent des réunions avec l'utilisateur final pour améliorer les performances de l'application.</h6>
 
 
 **PROJET 2 : Application Web Horizon Pharma - Fullstack - ReactJS, NodeJS, Express, MySql**
 
-1. Développement de nouveaux écrans et fonctionnalités à partir du scratch
-2. Développement de RESTful APIs en utilisant nodeJS pour gérer le contenu des écrans.
-3. Travaillé sur des opérations CRUD pour pouvoir modifier tout le contenu du site.
-4. Utilisé des JWTWeb Tokens pour l'autorisation de connexion
-5. Ajout de fichiers de migration pour effectuer des changements dans le schéma de la base de données en utilisant db-migrate
-6. Tests unitaires réalisés
+1. <h6>Développement de nouveaux écrans et fonctionnalités à partir du scratch</h6>
+2. <h6>Développement de RESTful APIs en utilisant nodeJS pour gérer le contenu des écrans.</h6>
+3. <h6>Travaillé sur des opérations CRUD pour pouvoir modifier tout le contenu du site.</h6>
+4. <h6>Utilisé des JWTWeb Tokens pour l'autorisation de connexion</h6>
+5. <h6>Ajout de fichiers de migration pour effectuer des changements dans le schéma de la base de données en utilisant db-migrate</h6>
+6. <h6>Tests unitaires réalisés</h6>
 
 **PROJET 3 : Application Web - Frontend - Next JS**
 
-1. Développement de nouveaux écrans et fonctionnalités
-2. Développement de fichiers Excel, PDF, CSV à télécharger à partir du tableau.
+1. <h6>Développement de nouveaux écrans et fonctionnalités</h6>
+2. <h6>Développement de fichiers Excel, PDF, CSV à télécharger à partir du tableau.</h6>
 
 **Travaillé dans un environnement agile en suivant les sprints et les méthodologies scrum.**
 
 <h3 align="center">Environnemment technique</h3>
 
-**LANGUAGES**: React Native, React (JS & TS)- Redux, Javascript, Typescript, Jest, NextJS
+**LANGUAGES**: <h6>React Native, React (JS & TS)- Redux, Javascript, Typescript, Jest, NextJS</h6>
 
-**SGBD**: NodeJs, MySQL, Express, PHP
+**SGBD**: <h6>NodeJs, MySQL, Express, PHP</h6>
 
-**SYSTÈMES**: Linux, Windows
+**SYSTÈMES**: <h6>Linux, Windows</h6>
 
-**MÉTHODE**: Agile
+**MÉTHODE**: <h6>Agile</h6>
 
-**OUTILS**: GIT, Jira, Postman, VS Code, HeidiSQL, AdobeXD, Penpot, CircleCi, Slack.
+**OUTILS**: <h6>GIT, Jira, Postman, VS Code, HeidiSQL, AdobeXD, Penpot, CircleCi, Slack.</h6>
 
 ---
 
@@ -137,54 +137,54 @@ C’est un projet informatique mais également humain. Il s’agit d’une plate
 
 - Le projet est développé sur deux plateformes : web et mobile.
 Sur chacune de ces plateformes, il y a trois « sous-projets » :
-	- **Client** : ici, les clients peuvent commander, gérer leur compte, ou encore faire des réclamations.
-	- **Livreur** : c’est le projet réservé aux livreurs, ils peuvent y recevoir une course, regarder leur historique de courses, ou encore gérer leur compte.
-	- **Partenaire** : les magasins partenaires ont accès à ce projet. Ils gèrent les matériaux qu’ils vendent, ainsi que les commandes qu’ils reçoivent via DoFissa
-	- **Gestion des livreurs** : permet de gérer toutes les opérations d'administration liées au livreur.
+	- **Client** : <h6>ici, les clients peuvent commander, gérer leur compte, ou encore faire des réclamations.</h6>
+	- **Livreur** : <h6>c’est le projet réservé aux livreurs, ils peuvent y recevoir une course, regarder leur historique de courses, ou encore gérer leur compte.</h6>
+	- **Partenaire** : <h6>les magasins partenaires ont accès à ce projet. Ils gèrent les matériaux qu’ils vendent, ainsi que les commandes qu’ils reçoivent via DoFissa</h6>
+	- **Gestion des livreurs** : <h6>permet de gérer toutes les opérations d'administration liées au livreur.</h6>
 
 <h3 align="center">Travail réalisé</h3>
 
 **Développement de User Interface : Design et prototype - Adobe XD**.
 
-1. Développement UI de App Mobile Livreur
-2. Développement UI de App Mobile Partenaire
-3. Développement UI de App Web de gestion des livreurs
+1. <h6>Développement UI de App Mobile Livreur</h6>
+2. <h6>Développement UI de App Mobile Partenaire</h6>
+3. <h6>Développement UI de App Web de gestion des livreurs</h6>
 
 **PROJET 1 : Application Mobile Livreur - Frontend -React Native**.
 
-1. Développement de nouveaux écrans et fonctionnalités
-2. React Native maps est utilisé pour afficher et interpréter l'API de Google maps.
-3. Travaillé avec le suivi de localisation en temps réel en utilisant react-native-maps.
-4. Utilisé Redux thunk middleware pour gérer les données asynchrones afin d'interagir avec le Redux store.
-5. Axios est utilisé pour envoyer toutes nos requêtes http vers notre serveur.
-6. Utilisé des sockets pour suivre les positions en temps réel et pour gérer les commandes en cours.
-7. Tests unitaires réalisés
+1. <h6>Développement de nouveaux écrans et fonctionnalités</h6>
+2. <h6>React Native maps est utilisé pour afficher et interpréter l'API de Google maps.</h6>
+3. <h6>Travaillé avec le suivi de localisation en temps réel en utilisant react-native-maps.</h6>
+4. <h6>Utilisé Redux thunk middleware pour gérer les données asynchrones afin d'interagir avec le Redux store.</h6>
+5. <h6>Axios est utilisé pour envoyer toutes nos requêtes http vers notre serveur.</h6>
+6. <h6>Utilisé des sockets pour suivre les positions en temps réel et pour gérer les commandes en cours.</h6>
+7. <h6>Tests unitaires réalisés</h6>
 
 **PROJET 2 : Application Mobile Partenaire- Frontend -React Native**
 
-1. Développement de nouveaux écrans et fonctionnalités
-2. Utilisé des sockets pour gérer les commandes en cours
-3. Tests unitaires réalisés
+1. <h6>Développement de nouveaux écrans et fonctionnalités</h6>
+2. <h6>Utilisé des sockets pour gérer les commandes en cours</h6>
+3. <h6>Tests unitaires réalisés</h6>
 
 **PROJET 3 : Application Web de gestion des livreurs - Frontend- React JS**
 
-1. Développement de nouveaux écrans et fonctionnalités à partir du scratch
-2. Développement de fichiers Excel constitutifs à télécharger à partir du tableau.
-3. Tests unitaires réalisés
+1. <h6>Développement de nouveaux écrans et fonctionnalités à partir du scratch</h6>
+2. <h6>Développement de fichiers Excel constitutifs à télécharger à partir du tableau.</h6>
+3. <h6>Tests unitaires réalisés</h6>
 
 **Travaillé dans un environnement agile en suivant les sprints et les méthodologies scrum.**
 
 <h3 align="center">Environnemment technique</h3>
 
-**LANGAGES**: JavaScript, React Native, React 
+**LANGAGES**: <h6>JavaScript, React Native, React </h6>
 
-**SGBD**: NodeJs, MongoDB, NoSQL
+**SGBD**: <h6>NodeJs, MongoDB, NoSQL</h6>
 
-**SYSTÈMES**: Windows, Mac
+**SYSTÈMES**: <h6>Windows, Mac</h6>
 
-**MÉTHODE**: Agile
+**MÉTHODE**: <h6>Agile</h6>
 
-**OUTILS**: Postman, Jest, VS Code, AdobeXD, Trello
+**OUTILS**: <h6>Postman, Jest, VS Code, AdobeXD, Trello</h6>
 
 ---
 
@@ -192,28 +192,28 @@ Sur chacune de ces plateformes, il y a trois « sous-projets » :
 <h3 align="center">DÉVELOPPEUR FRONT-END JUNIOR</h3>
 <h3 align="center">Contexte général</h3>
 
-Travail avec 3 clients dans le développement d'interfaces utilisateur en utilisant JS.
+<h6>Travail avec 3 clients dans le développement d'interfaces utilisateur en utilisant JS.</h6>
 
 **Client 1 : Application Web - Frontend - Javascript**
 
-1. Développement de nouveaux écrans et fonctionnalités et assurer la maintenance.
-2. Utilisé Ajax au format JSON et XML pour le traitement des demandes asynchrones
-3. Utilisé les plug-in de validation JQuery pour connexion
-4. Tests unitaires réalisés
+1. <h6>Développement de nouveaux écrans et fonctionnalités et assurer la maintenance.</h6>
+2. <h6>Utilisé Ajax au format JSON et XML pour le traitement des demandes asynchrones</h6>
+3. <h6>Utilisé les plug-in de validation JQuery pour connexion</h6>
+4. <h6>Tests unitaires réalisés</h6>
 
 **Client 2 : Application Web - Frontend - Javascript**
 
-1. Travaillé sur l'application web existante pour ajouter de nouvelles fonctionnalités et assurer la maintenance.
-2. Utilisation de scss pour le style
-3. Utilisation des plug-ins Webpack
-4. Tests unitaires réalisés
+1. <h6>Travaillé sur l'application web existante pour ajouter de nouvelles fonctionnalités et assurer la maintenance.</h6>
+2. <h6>Utilisation de scss pour le style</h6>
+3. <h6>Utilisation des plug-ins Webpack</h6>
+4. <h6>Tests unitaires réalisés</h6>
 
 **Client 3 : Application automatization - Frontend - Javascript**
 
-1. Outil est utilisé dans le secteur bancaire, où les cartes de crédit sont ouverts
-2. Travaillé sur l'application automatization pour résoudre les problèmes UI dans ce processus
+1. <h6>Outil est utilisé dans le secteur bancaire, où les cartes de crédit sont ouverts</h6>
+2. <h6>Travaillé sur l'application automatization pour résoudre les problèmes UI dans ce processus</h6>
 
 <h3 align="center">Environnemment technique</h3>
 
-HTML, CSS, JS, jQuery, Ajax, JSON, XML, REST, SOAP, Webpack, Babel, PHP, Postman.
+<h6>HTML, CSS, JS, jQuery, Ajax, JSON, XML, REST, SOAP, Webpack, Babel, PHP, Postman.</h6>
 
