@@ -34,12 +34,6 @@ Très passionné par la création de UI responsives pour les applications web et
 | Périmètre de mobilité  | Toutes les régions de France  |
 | Coeur d'expertise  | React, React Native, Javascript, Nodejs, MySql, MongoDB  |
 |||
-
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> are supported
-- [x] list syntax is required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
   
   
   ## Expérience
