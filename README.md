@@ -8,9 +8,16 @@
   
   
   <p align='left'> 
-     Développeur React / React Native <br />
-     À la recherche d'un contrat à temps plein <br />
-     Très passionné par la création de UI responsives pour les applications web et mobile
+
+  ##### Développeur React / React Native <br />
+##### À la recherche d'un contrat à temps plein <br />
+##### Très passionné par la création de UI responsives pour les applications web et mobile
+##### Postes recherchés : Développeur Front-end / Développeur React / Développeur React Native / Développeur Web / Ingénieur Front-end
+##### Disponibilité : ASAP
+##### Contrat recherché : CDI
+##### Lieu de résidence : St ouen l'amoune - 95310 France
+##### Périmètre de mobilité : Toutes les régions de France
+##### Coeur d'expertise : React, React Native, Javascript, Nodejs, MySql, MongoDB
   </p>
   
   <p align='center'>
