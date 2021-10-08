@@ -42,11 +42,11 @@ Très passionné par la création de UI responsives pour les applications web et
   📆 2020 - 2021\
   📍 **Horizon Pharma** - Les ulis, France
   
-  - 👨‍💻 [DÉVELOPPEUR REACT / REACT NATIVE](https://github.com/Vijaysreekar4994#ho-solutions-102019---072020)\
+  - 👨‍💻 [DÉVELOPPEUR REACT / REACT NATIVE](https://github.com/Vijaysreekar4994/Vijaysreekar4994/blob/main/README.md#-)\
   📆 2019 - 2020\
   📍 **HO Solution** - Asnières-sur-Seine, France
   
-  - 👨‍💻 [DÉVELOPPEUR FRONT-END JUNIOR](https://github.com/Vijaysreekar4994#tata-consultancy-services-092016---082018)\
+  - 👨‍💻 [DÉVELOPPEUR FRONT-END JUNIOR](https://github.com/Vijaysreekar4994/Vijaysreekar4994/blob/main/README.md#--1)\
   📆 2016 - 2018\
   📍 **Tata consultancy services** - Hyderabad, Inde
   
