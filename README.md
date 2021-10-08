@@ -8,16 +8,12 @@
   
   
   <p align='left'> 
+  
+  
+Développeur React / React Native <br />
+À la recherche d'un contrat à temps plein <br />
+Très passionné par la création de UI responsives pour les applications web et mobile
 
-  ##### Développeur React / React Native <br />
-##### À la recherche d'un contrat à temps plein <br />
-##### Très passionné par la création de UI responsives pour les applications web et mobile
-##### Postes recherchés : Développeur Front-end / Développeur React / Développeur React Native / Développeur Web / Ingénieur Front-end
-##### Disponibilité : ASAP
-##### Contrat recherché : CDI
-##### Lieu de résidence : St ouen l'amoune - 95310 France
-##### Périmètre de mobilité : Toutes les régions de France
-##### Coeur d'expertise : React, React Native, Javascript, Nodejs, MySql, MongoDB
   </p>
   
   <p align='center'>
@@ -29,20 +25,34 @@
     </a>
   </p>
   
-  
+|||
+| - | - |
+| Postes recherchés | Développeur Front-end / Développeur React / Développeur React Native / Développeur Web / Ingénieur Front-end |
+| Disponibilité  | ASAP  |
+| Contrat recherché  | CDI  |
+| Lieu de résidence  | St ouen l'amoune - 95310 France  |
+| Périmètre de mobilité  | Toutes les régions de France  |
+| Coeur d'expertise  | React, React Native, Javascript, Nodejs, MySql, MongoDB  |
+|||
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> are supported
+- [x] list syntax is required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
   
   
   ## Expérience
   
-  - 👨‍💻 **INGÉNIEUR FRONT-END**\
+  - 👨‍💻 [INGÉNIEUR FRONT-END](https://github.com/Vijaysreekar4994#exp%C3%A9rience-professionnelle)\
   📆 2020 - 2021\
   📍 **Horizon Pharma** - Les ulis, France
   
-  - 👨‍💻 **DÉVELOPPEUR REACT / REACT NATIVE**\
+  - 👨‍💻 [DÉVELOPPEUR REACT / REACT NATIVE](https://github.com/Vijaysreekar4994#ho-solutions-102019---072020)\
   📆 2019 - 2020\
   📍 **HO Solution** - Asnières-sur-Seine, France
   
-  - 👨‍💻 **DÉVELOPPEUR FRONT-END JUNIOR**\
+  - 👨‍💻 [DÉVELOPPEUR FRONT-END JUNIOR](https://github.com/Vijaysreekar4994#tata-consultancy-services-092016---082018)\
   📆 2016 - 2018\
   📍 **Tata consultancy services** - Hyderabad, Inde
   
