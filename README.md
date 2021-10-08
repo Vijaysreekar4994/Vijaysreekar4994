@@ -139,7 +139,7 @@ Très passionné par la création de UI responsives pour les applications web et
   
   ---
   
-  <h6></h6>
+  <h3></h3>
   <h2 align="center">HO Solutions 10/2019 - 07/2020</h2>
   <h3 align="center">DÉVELOPPEUR REACT / REACT NATIVE</h3>
   <h3 align="center">Contexte général</h3>
@@ -197,7 +197,7 @@ Très passionné par la création de UI responsives pour les applications web et
   <h6>OUTILS : Postman, Jest, VS Code, AdobeXD, Trello</h6>
   
   ---
-  <h6></h6>
+  <h3></h3>
   <h2 align="center">Tata consultancy Services 09/2016 - 08/2018</h2>
   <h3 align="center">DÉVELOPPEUR FRONT-END JUNIOR</h3>
   <h3 align="center">Contexte général</h3>
