@@ -139,7 +139,7 @@ Très passionné par la création de UI responsives pour les applications web et
   
   ---
   
-  
+  <h2> </h2>
   <h2 align="center">HO Solutions 10/2019 - 07/2020</h2>
   <h3 align="center">DÉVELOPPEUR REACT / REACT NATIVE</h3>
   <h3 align="center">Contexte général</h3>
