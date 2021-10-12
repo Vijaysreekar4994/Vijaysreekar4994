@@ -46,7 +46,7 @@ Très passionné par la création de UI responsives pour les applications web et
   📆 2019 - 2020\
   📍 **HO Solution** - Asnières-sur-Seine, France
   
-  - 👨‍💻 [DÉVELOPPEUR FRONT-END JUNIOR](https://github.com/Vijaysreekar4994/Vijaysreekar4994/blob/main/README.md#--1)\
+  - 👨‍💻 [DÉVELOPPEUR FRONT-END](https://github.com/Vijaysreekar4994/Vijaysreekar4994/blob/main/README.md#--1)\
   📆 2016 - 2018\
   📍 **Tata consultancy services** - Hyderabad, Inde
   
@@ -199,7 +199,7 @@ Très passionné par la création de UI responsives pour les applications web et
   ---
   <h2> </h2>
   <h2 align="center">Tata consultancy Services 09/2016 - 08/2018</h2>
-  <h3 align="center">DÉVELOPPEUR FRONT-END JUNIOR</h3>
+  <h3 align="center">DÉVELOPPEUR FRONT-END</h3>
   <h3 align="center">Contexte général</h3>
   
   <h6>Travail avec 3 clients dans le développement d'interfaces utilisateur en utilisant JS.</h6>
