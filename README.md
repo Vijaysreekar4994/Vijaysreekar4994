@@ -76,7 +76,8 @@ Très passionné par la création de UI responsives pour les applications web et
   📍 ShantiNiketan High school - Hyderabad, Inde.
   </details>
   
-  
+  <!-- 
+
   ---
   
   <h1 align="center">Expérience professionnelle</h1>
@@ -227,4 +228,4 @@ Très passionné par la création de UI responsives pour les applications web et
   
   <h6>HTML, CSS, JS, jQuery, Ajax, JSON, XML, REST, SOAP, Webpack, Babel, PHP, Postman.</h6>
   
-  
+  -->
