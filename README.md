@@ -38,13 +38,17 @@ Très passionné par la création de UI responsives pour les applications web et
   
   ## Expérience
   
-  - 👨‍💻 [INGÉNIEUR FRONT-END](https://github.com/Vijaysreekar4994#exp%C3%A9rience-professionnelle)\
+  - 👨‍💻 [DÉVELOPPEUR FULLSTACK]()\
+  📆 2021 - présent\
+  📍 **Niji** - Paris, France
+  
+  - 👨‍💻 [DÉVELOPPEUR FULLSTACK](https://github.com/Vijaysreekar4994#exp%C3%A9rience-professionnelle)\
   📆 2020 - 2021\
-  📍 **Horizon Pharma** - Les ulis, France
+  📍 **Horizon Pharma** - Paris, France
   
   - 👨‍💻 [DÉVELOPPEUR REACT / REACT NATIVE](https://github.com/Vijaysreekar4994/Vijaysreekar4994/blob/main/README.md#-)\
   📆 2019 - 2020\
-  📍 **HO Solution** - Asnières-sur-Seine, France
+  📍 **HO Solution** - Paris, France
   
   - 👨‍💻 [DÉVELOPPEUR FRONT-END](https://github.com/Vijaysreekar4994/Vijaysreekar4994/blob/main/README.md#--1)\
   📆 2016 - 2018\
@@ -82,7 +86,7 @@ Très passionné par la création de UI responsives pour les applications web et
   
   <h1 align="center">Expérience professionnelle</h1>
   <h2 align="center">Horizon Pharma 11/2020 - 05/2021</h2>
-  <h3 align="center">INGÉNIEUR FRONT-END</h3>
+  <h3 align="center">DÉVELOPPEUR FULLSTACK</h3>
   <h3 align="center">Contexte général</h3>
   
   - <h6>Horizon Pharma est une entreprise pharmaceutique, distributeur de médicaments aux pharmacies.</h6>
