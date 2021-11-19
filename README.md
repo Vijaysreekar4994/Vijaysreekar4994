@@ -3,8 +3,9 @@
    Bonjour  
    <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
    Je suis Srikar
-   <a href='https://github.com/Vijaysreekar4994/Vijaysreekar4994/blob/main/README-EN.md'><img align="right" src="https://img.shields.io/badge/ENGLISH-EN-blue" /></a>
-  </h1>
+   <!-- <a href='https://github.com/Vijaysreekar4994/Vijaysreekar4994/blob/main/README-EN.md'><img align="right" src="https://img.shields.io/badge/ENGLISH-EN-blue" /></a>
+-->  
+</h1>
   
   
   <p align='left'> 
