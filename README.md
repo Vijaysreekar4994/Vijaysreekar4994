@@ -38,19 +38,19 @@ Très passionné par la création de UI responsives pour les applications web et
   
   ## Expérience
   
-  - 👨‍💻 [DÉVELOPPEUR FULLSTACK]()\
+  - 👨‍💻 DÉVELOPPEUR FULLSTACK\
   📆 2021 - présent\
   📍 **Niji** - Paris, France
   
-  - 👨‍💻 [DÉVELOPPEUR FULLSTACK](https://github.com/Vijaysreekar4994#exp%C3%A9rience-professionnelle)\
+  - 👨‍💻 DÉVELOPPEUR FULLSTACK\
   📆 2020 - 2021\
   📍 **Horizon Pharma** - Paris, France
   
-  - 👨‍💻 [DÉVELOPPEUR REACT / REACT NATIVE](https://github.com/Vijaysreekar4994/Vijaysreekar4994/blob/main/README.md#-)\
+  - 👨‍💻 DÉVELOPPEUR REACT / REACT NATIVE\
   📆 2019 - 2020\
   📍 **HO Solution** - Paris, France
   
-  - 👨‍💻 [DÉVELOPPEUR FRONT-END](https://github.com/Vijaysreekar4994/Vijaysreekar4994/blob/main/README.md#--1)\
+  - 👨‍💻 DÉVELOPPEUR FRONT-END\
   📆 2016 - 2018\
   📍 **Tata consultancy services** - Hyderabad, Inde
   
