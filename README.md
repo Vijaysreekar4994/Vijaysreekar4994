@@ -10,7 +10,7 @@
   <p align='left'> 
   
   
-Développeur React / React Native <br />
+Développeur web et mobile <br />
 <!-- À la recherche d'un contrat à temps plein <br /> -->
 Très passionné par la création de UI responsives pour les applications web et mobile
 
