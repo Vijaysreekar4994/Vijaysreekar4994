@@ -11,7 +11,7 @@
   <p align='left'> 
   
   
-Développeur web et mobile <br />
+Développeur <br />
 <!-- À la recherche d'un contrat à temps plein <br /> -->
 Très passionné par la création de UI responsives pour les applications web et mobile
 
