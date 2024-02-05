@@ -39,8 +39,12 @@ Très passionné par la création de UI responsives pour les applications web et
   
   ## Expérience
   
+  - 👨‍💻 DÉVELOPPEUR REACT\
+  📆 2023 - présent\
+  📍 **Free** - Paris, France
+  
   - 👨‍💻 DÉVELOPPEUR FULLSTACK\
-  📆 2021 - présent\
+  📆 2021 - 2023\
   📍 **Niji** - Paris, France
   
   - 👨‍💻 DÉVELOPPEUR FULLSTACK\
